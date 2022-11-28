@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore inputs we don't want checked in
+
+scripts/input/cnx-org-dns-records.csv
